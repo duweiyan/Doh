@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="description0">Google 运营的大型全球解析器。</string>
-  <string name="description1">Cloudflare 运营的大型全球解析器。</string>
+  <string name="description0">提示：请使用下方自定义服务器地址</string>
+  <!--<string name="description1">Cloudflare 运营的大型全球解析器。</string>
   <string name="description2">IBM 和 Packet Clearinghouse 提供的大型全球解析器。屏蔽恶意网域。</string>
   <string name="description3">全球 DNS 过滤服务提供商。屏蔽恶意网域。</string>
   <string name="description4">由非营利私人团体在奥地利运营的服务器。</string>
@@ -15,5 +15,5 @@
   <string name="description14">服务器位于芬兰赫尔辛基，由一家德国的非营利服务提供商运营。</string>
   <string name="description15">归 Cisco 所有的大型全球解析器。</string>
   <string name="description16">由伦敦和保加利亚的 IT 服务公司运营。</string>
-  <string name="description17">由加拿大互联网注册管理局运营。</string>
+  <string name="description17">由加拿大互联网注册管理局运营。</string>-->
 </resources>
