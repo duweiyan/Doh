@@ -1,10 +1,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="intro_benefit_headline">更开放的互联网访问权限</string>
-  <string name="intro_benefit_body">Intra 可以帮助您防止 DNS 篡改，这种网络攻击会阻止您访问新的网站、社交媒体平台和即时通讯应用。\n\n尽管 Intra 可以防止 DNS 篡改，但是无法针对其他更为复杂的屏蔽技术和攻击方式提供保护。</string>
+  <string name="intro_benefit_headline">更安全的互联网访问体验</string>
+  <string name="intro_benefit_body">Intra 可以帮助您防止 DNS 篡改，这种网络攻击会阻止您访问新的网站、社交媒体平台和移动应用。\n\n尽管 知识共享Doh 可以防止 DNS 篡改，但是无法针对其他更为复杂的屏蔽技术和攻击方式提供保护。</string>
   <string name="intro_manipulation_headline">防止 DNS 篡改</string>
-  <string name="intro_manipulation_body">域名系统 (DNS) 为您访问网站或打开应用提供所需的确切地址。Intra 保护您和 DNS 之间的连接。\n\nIntra 使用加密技术确保网址不会被篡改，助您安全访问互联网。</string>
+  <string name="intro_manipulation_body">域名系统 (DNS) 为您访问网站或打开应用提供所需的确切地址。知识共享Doh 保护您和 DNS 之间的连接。\n\nIntra 使用加密技术确保网址不会被篡改，帮助您安全访问互联网。</string>
   <string name="intro_details_headline">最后一点…</string>
-  <string name="intro_details_body">点按“确定”即可让 Intra 保护您的 DNS 请求。默认情况下，这些请求会路由至 Google 公共 DNS（<a href="https://developers.google.com/speed/public-dns/privacy">隐私权政策</a>）。您可以在应用设置中选择其他服务。</string>
+  <string name="intro_details_body">点按“确定”即可让 知识共享Doh 保护您的 DNS 请求。默认情况下，这些请求会链接至 知识共享Doh 或 其它公共Doh服务 如：阿里、腾讯DNS（<a href="https://developers.google.com/speed/public-dns/privacy">隐私权政策</a>）。您可以在应用设置中选择其他服务。</string>
   <string name="intro_back">上一页</string>
   <string name="intro_next">下一页</string>
   <string name="intro_accept">接受</string>
